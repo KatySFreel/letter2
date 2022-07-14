@@ -1,0 +1,85 @@
+<mjml>
+	<mj-style>
+		.foot div {
+			background: #fff !important;
+			max-width: 100% !important;
+		}
+	</mj-style>
+  <mj-body width="600px" background-color="#d9cce5">
+    <mj-section background-color="#d9cce5">
+      <mj-column width="600px">
+		<mj-image width="80px" height="150px" src="https://mcusercontent.com/2ce523f9561579e9ad728bf26/images/9ed69bbf-d340-40dc-89cc-ae34e04c3378.png" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Intro text -->
+    </mj-raw>
+    <mj-section background-color="#d9cce5">
+      <mj-column width="470px">
+        <mj-image width="564px" padding-left="20px" padding-right="20px" src="https://mcusercontent.com/2ce523f9561579e9ad728bf26/images/1bbe1c78-5ce9-4d9f-873e-61d51eb3da6f.png"></mj-image>
+        <mj-text align="center" font-family="Roboto" letter-spacing="0.1px" line-height="20px" padding-left="20px" padding-right="20px" font-size="14px" color="#E76946">We are the cheeky girls, you are the cheeky boys. With Friday nights spent indoors, why not warm up with our cozy new cocktail recipe? Designed by our in-house taste testers, the Cheeky Chai is a seasonal riff on the Espresso Martini, packing a warming punch as the rum ignites the natural spices of our Chai Concentrate.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Side image -->
+    </mj-raw>
+    <mj-section background-color="#d9cce5">
+      <mj-raw>
+        <!-- Left image -->
+      </mj-raw>
+      <mj-column>
+        <mj-image width="470px" src="https://mcusercontent.com/2ce523f9561579e9ad728bf26/images/293bbff6-e2cc-4192-b304-c14e78439717.png"></mj-image>
+      </mj-column>
+      <mj-raw>
+        <!-- right paragraph -->
+      </mj-raw>
+    </mj-section>
+    <mj-raw>
+      <!-- Icons -->
+    </mj-raw>
+    <mj-section background-color="#d9cce5">
+      <mj-column width="320px">
+        <mj-text align="center" font-family="Roboto" letter-spacing="0.1px" line-height="20px" padding-left="20px" padding-right="20px" font-size="14px" color="#E76946">
+		  <span style="text-decoration: underline;">
+		  Ingredients</span> </br>
+			25ml Rum</br>
+			25ml Chai Concentrate</br>
+			50ml Oat M*lk</br>
+			15ml Galliano or vanilla liqueur</br>
+			Garnish with a star anise</br></br>
+			<span style="text-decoration: underline;">
+			Method </span></br>
+			Pour ingredients into an </br>
+			ice-filled cocktail shaker. Shake for 20 seconds.
+			Strain into a martini glass. Drop in a star anise.</br></br>
+			(clothes optional)</mj-text>
+			<mj-button width="190px" align="center" font-size="14px" background-color="#F45E43" border-radius="50px" font-family="Roboto" letter-spacing="2px" line-height="25px" color="#d9cce5" href="#" padding-bottom="50px">Get your Chai on</mj-button>
+      </mj-column>
+    </mj-section>
+	 <mj-raw>
+      <!-- Icons -->
+    </mj-raw>
+	 <mj-wrapper css-class="foot">
+		<mj-section background-color="#fff">
+			<mj-column width="550px" background-color="#fff">
+			<mj-image width="1200px" padding="0px" src="https://mcusercontent.com/2ce523f9561579e9ad728bf26/images/92f2a632-6464-4589-a33d-60e20f91505b.png"></mj-image>
+				<mj-button width="190px" align="center" font-size="14px" background-color="#000" border-radius="50px" font-family="Roboto" letter-spacing="2px" line-height="25px" color="#fff" href="#">CLICK ME</mj-button>
+				<mj-text align="center" font-family="Roboto" letter-spacing="0.1px" line-height="20px" padding-top="30px" font-size="14px" color="#000">
+					We’ve created a program of Minor Figures Ambassadors to help out-of-work baristas with a little extra income before Christmas. These are flexible, commission-based sales & marketing roles based out and about all over the UK, and we’ll provide you with all the training and products you need.</br></br>
+					We’re looking for a band of Brand Ambassadors to take to shops, cafes (and whoever else) all over the country and help them switch on to Minor Figures. These are flexible, commission-based sales & marketing roles, and we’ll gladly provide you with all the training and products you’ll need. We’ll do this for as many of you as we can for as long as possible to help you through a tough winter.</br></br>
+					We’ll do this for as many of you as we can for as long as possible to help you through a tough winter. Hit the link above to apply – applications close at midnight tonight, so get on it! Please note this is only open to UK-based baristas who’ve recently been made redundant or furloughed by the current national lockdown.</br></br>
+					Good luck and stay safe 💌
+			</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fff">
+			<mj-column width="590px">
+				<mj-text align="center" font-family="Roboto" letter-spacing="0.1px" line-height="30px" padding-top="30px" font-size="12px" color="#222222">
+					Copyright © 2020 Minor Figures. All rights reserved. Unit 12A, Uplands Business Park, Blackhorse Lane, E17 5QJ London, UK.</br>
+					We don’t do spam, but if you want to stop receiving emails from us regarding new product launches, special offers, events, cool cafés, and more - simply click here to <span style="text-decoration: underline;">unsubscribe</span>.
+			</mj-text>
+			</mj-column>
+		</mj-section>
+	 </mj-wrapper>
+  </mj-body>
+</mjml>
